@@ -20,12 +20,12 @@
       },
       "source_video_file": {
         "type": "string",
-        "description": "source_video_file",
+        "description": "Source Video URL",
         "widget": "textarea"
       },
       "driving_video_file": {
         "type": "string",
-        "description": "driving_video_file",
+        "description": "Driving Video URL",
         "widget": "textarea"
       }
     },
